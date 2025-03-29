@@ -11,4 +11,5 @@ Requirements:
     pip install discord.py requests colorama pystyle
 
 ⚠️ This tool is for educational Purposes Only.
+
 🔒 Using it without permission violates Discord's Terms of Service and may be illegal.
